@@ -68,8 +68,10 @@ module sr_flipflop(q, q_bar, s, r, clk, reset);
   assign q_bar = ~q;
 endmodule
 ~~~
+
 Developed by : Logesh.N.A
 Register number : 212223240078
+
 **RTL LOGIC FOR FLIPFLOPS**
 
 ![324831741-fab24ca8-c21d-4645-9b9d-c27f816f5d8c](https://github.com/04Varsha/SR-FLIPFLOP-USING-CASE/assets/149035374/f817f5d0-690a-4a29-94b3-49be31452c3e)
